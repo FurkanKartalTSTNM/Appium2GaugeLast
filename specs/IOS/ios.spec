@@ -5,6 +5,6 @@ Specification Heading
 IOSBasicTest
 -----
 tags:Ios Basic Test
-* Wait "5" seconds
+* Wait "60" seconds
 * IOS Basic (Xpath)
 
